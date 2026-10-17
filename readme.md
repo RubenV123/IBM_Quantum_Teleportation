@@ -1,4 +1,4 @@
-# Quantum Teleportation on Real IBM Hardware: Measuring the Noise
+# Quantum Teleportation on Real IBM Hardware: Measuring the Noise & Checking Entanglement
 
 **IBM Qiskit Fall Fest 2026 · RV University · Qiskit Quantum Computing Hackathon**
 
