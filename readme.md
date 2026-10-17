@@ -65,12 +65,12 @@ We benchmarked all six cardinal poles of the Bloch sphere:
 
 | Label | State Vector |
 | --- | --- |
-| $|0\rangle$ | $(1, 0)$ |
-| $|1\rangle$ | $(0, 1)$ |
-| $|+\rangle$ | $(1/\sqrt{2}, 1/\sqrt{2})$ |
-| $|-\rangle$ | $(1/\sqrt{2}, -1/\sqrt{2})$ |
-| $|+i\rangle$ | $(1/\sqrt{2}, i/\sqrt{2})$ |
-| $|-i\rangle$ | $(1/\sqrt{2}, -i/\sqrt{2})$ |
+| $\vert 0 \rangle$ | $(1, 0)$ |
+| $\vert 1 \rangle$ | $(0, 1)$ |
+| $\vert + \rangle$ | $(1/\sqrt{2}, 1/\sqrt{2})$ |
+| $\vert - \rangle$ | $(1/\sqrt{2}, -1/\sqrt{2})$ |
+| $\vert +i \rangle$ | $(1/\sqrt{2}, i/\sqrt{2})$ |
+| $\vert -i \rangle$ | $(1/\sqrt{2}, -i/\sqrt{2})$ |
 
 ---
 
