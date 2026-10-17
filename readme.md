@@ -135,15 +135,7 @@ These results come directly from an actual quantum processor:
 * **Job ID:** `db9lv2ni0auc7390svv0`
 * **Plan:** IBM Quantum Open Plan
 
-| State | Real Hardware Error Rate |
-| --- | --- |
-| $|0\rangle$ | 0.0566 |
-| $|1\rangle$ | 0.0654 |
-| $|+\rangle$ | 0.0596 |
-| $|-\rangle$ | 0.0381 |
-| $|+i\rangle$ | 0.0479 |
-| $|-i\rangle$ | 0.0498 |
-| **Average** | **0.0529** |
+StateReal Hardware Error Rate$\vert 0 \rangle$0.0566$\vert 1 \rangle$0.0654$\vert + \rangle$0.0596$\vert - \rangle$0.0381$\vert +i \rangle$0.0479$\vert -i \rangle$0.0498Average0.0529
 
 ### Key Takeaways
 
