@@ -137,12 +137,12 @@ These results come directly from an actual quantum processor:
 
 | State | Real Hardware Error Rate |
 | --- | --- |
-| $|0\rangle$ | 0.0566 |
-| $|1\rangle$ | 0.0654 |
-| $|+\rangle$ | 0.0596 |
-| $|-\rangle$ | 0.0381 |
-| $|+i\rangle$ | 0.0479 |
-| $|-i\rangle$ | 0.0498 |
+| \|0⟩ | 0.0566 |
+| \|1⟩ | 0.0654 |
+| \|+⟩ | 0.0596 |
+| \|−⟩ | 0.0381 |
+| \|+i⟩ | 0.0479 |
+| \|−i⟩ | 0.0498 |
 | **Average** | **0.0529** |
 
 ### Key Takeaways
