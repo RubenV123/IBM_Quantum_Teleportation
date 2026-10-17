@@ -65,12 +65,12 @@ We benchmarked all six cardinal poles of the Bloch sphere:
 
 | Label | State Vector |
 | --- | --- |
-| |0⟩ | (1, 0) |
-| |1⟩ | (0, 1) |
-| |+⟩ | (1/√2, 1/√2) |
-| |−⟩ | (1/√2, −1/√2) |
-| |+i⟩ | (1/√2, i/√2) |
-| |−i⟩ | (1/√2, −i/√2) |
+| $|0\rangle$ | $(1, 0)$ |
+| $|1\rangle$ | $(0, 1)$ |
+| $|+\rangle$ | $(1/\sqrt{2}, 1/\sqrt{2})$ |
+| $|-\rangle$ | $(1/\sqrt{2}, -1/\sqrt{2})$ |
+| $|+i\rangle$ | $(1/\sqrt{2}, i/\sqrt{2})$ |
+| $|-i\rangle$ | $(1/\sqrt{2}, -i/\sqrt{2})$ |
 
 ---
 
@@ -137,12 +137,12 @@ These results come directly from an actual quantum processor:
 
 | State | Real Hardware Error Rate |
 | --- | --- |
-| |0⟩ | 0.0566 |
-| |1⟩ | 0.0654 |
-| |+⟩ | 0.0596 |
-| |−⟩ | 0.0381 |
-| |+i⟩ | 0.0479 |
-| |−i⟩ | 0.0498 |
+| $|0\rangle$ | 0.0566 |
+| $|1\rangle$ | 0.0654 |
+| $|+\rangle$ | 0.0596 |
+| $|-\rangle$ | 0.0381 |
+| $|+i\rangle$ | 0.0479 |
+| $|-i\rangle$ | 0.0498 |
 | **Average** | **0.0529** |
 
 ### Key Takeaways
